@@ -8,7 +8,7 @@ npm run dev
 yarn dev
 ```
 
-## Missing COLLECTION_NAME environment variable.
+## Missing environment variable.
 
 When you first run the project you may see the following error:
 
